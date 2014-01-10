@@ -1,4 +1,4 @@
 CaptureActivityZxing
 ====================
 
-CaptureActivity
+CaptureActivity - example to use zxing library on portable screen.
